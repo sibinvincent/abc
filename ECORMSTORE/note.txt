@@ -1,0 +1,7 @@
+##for react we need to install axios
+
+$npm i axios
+
+### now we need to install router dom
+
+$npm i react-router-dom

@@ -1,0 +1,27 @@
+.header {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header h1 {
+
+    margin: 0;
+}
+
+
+.login-button {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.textdecor {
+    text-decoration: none;
+    color: #fff;
+}
